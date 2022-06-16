@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-Ec_mbX6cE8)
+- Live Site URL: [Live Site](https://domdev98.github.io/NFT-preview-card-component/)
 
 ### Built with
 
